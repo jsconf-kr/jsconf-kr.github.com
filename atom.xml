@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>My Octopress Blog</title>
+  <title>JSConf Korean</title>
   <link href="http://jsconf-kr.github.com/jsconf-kr/atom.xml" rel="self"/>
   <link href="http://jsconf-kr.github.com/jsconf-kr/"/>
-  <updated>2011-10-12T17:47:40+09:00</updated>
+  <updated>2011-10-12T19:30:01+09:00</updated>
   <id>http://jsconf-kr.github.com/jsconf-kr/</id>
   <author>
-    <name>Your Name</name>
+    <name>Rhio Kim</name>
     
   </author>
 
